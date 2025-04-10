@@ -1,0 +1,7 @@
+D:\215\34.2\bin\Debug\34.2.exe.config
+D:\215\34.2\bin\Debug\34.2.exe
+D:\215\34.2\bin\Debug\34.2.pdb
+D:\215\34.2\obj\Debug\34.2.csproj.AssemblyReference.cache
+D:\215\34.2\obj\Debug\34.2.csproj.CoreCompileInputs.cache
+D:\215\34.2\obj\Debug\34.2.exe
+D:\215\34.2\obj\Debug\34.2.pdb
